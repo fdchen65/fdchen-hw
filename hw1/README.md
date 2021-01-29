@@ -1,0 +1,3 @@
+split.cpp and split.h in this repository contain a function that can split an ordered integer linked list into an ordered integer linked list with only evens, and an ordered integer linked list with only odds. 
+
+ulliststr.cpp and ulliststr.h describe an unrolled linked list. It is an implementation of list. This implementation can take strings, it dynamically creates and deletes nodes which can store 10 chars each depending on the length of the string.

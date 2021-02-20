@@ -1,0 +1,87 @@
+<products>
+book
+Naruto
+19.99
+69
+123-123456789-9
+Masashi Kishimoto
+book
+The Communist Manifesto
+420.69
+100
+123-123456789-9
+Karl Marx
+clothing
+USC Cardinal Red Hoodie
+79.99
+1
+Large
+trojan brand
+movie
+Konosuba Movie
+26.99
+3
+Comedy
+PG-13
+movie
+Fate/Stay Night
+24.99
+10
+anime
+G
+book
+Octavia's Brood
+24.99
+40
+123-453765132-8
+No Author
+clothing
+Razer Pro Gamer Socks
+59.99
+5
+medium
+razer brand
+movie
+Cote's Redemption
+69.99
+7
+documentary
+PG-13
+book
+FUCLA
+80
+6.99
+456-867231546-0
+Aaron Cote
+book
+Cracking the Coding Interview
+40
+29.99
+645-432534645-7
+Gayle McDowell
+clothing
+gamer underwear
+19.99
+15
+large
+linus tech tips brand
+movie
+Kaguya Sama: Love is War
+39.99
+55
+anime
+PG-13
+movie
+Fairy Tail
+19.99
+2
+hentai
+G
+</products>
+<users>
+justin 10.00 0
+cote 60.00 1
+JefferyMillerPhD 421.00 1
+OliviaJade 1000000.00 1
+BilliyBruin 200.00 0
+</users>
